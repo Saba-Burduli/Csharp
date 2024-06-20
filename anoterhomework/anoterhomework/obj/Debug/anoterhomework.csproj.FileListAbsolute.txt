@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\anoterhomework\anoterhomework\obj\Debug\anoterhomework.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\anoterhomework\anoterhomework\obj\Debug\anoterhomework.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\anoterhomework\anoterhomework\bin\Debug\anoterhomework.exe.config
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\anoterhomework\anoterhomework\bin\Debug\anoterhomework.exe
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\anoterhomework\anoterhomework\bin\Debug\anoterhomework.pdb
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\anoterhomework\anoterhomework\obj\Debug\anoterhomework.exe
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\anoterhomework\anoterhomework\obj\Debug\anoterhomework.pdb
