@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\saklaso 3\saklaso 3\bin\Debug\saklaso 3.exe.config
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\saklaso 3\saklaso 3\bin\Debug\saklaso 3.exe
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\saklaso 3\saklaso 3\bin\Debug\saklaso 3.pdb
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\saklaso 3\saklaso 3\obj\Debug\saklaso 3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\saklaso 3\saklaso 3\obj\Debug\saklaso 3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\saklaso 3\saklaso 3\obj\Debug\saklaso 3.exe
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\saklaso 3\saklaso 3\obj\Debug\saklaso 3.pdb
