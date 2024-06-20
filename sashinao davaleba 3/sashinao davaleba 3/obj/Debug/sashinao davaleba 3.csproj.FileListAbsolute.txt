@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\sashinao davaleba 3\sashinao davaleba 3\bin\Debug\sashinao davaleba 3.exe.config
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\sashinao davaleba 3\sashinao davaleba 3\bin\Debug\sashinao davaleba 3.exe
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\sashinao davaleba 3\sashinao davaleba 3\bin\Debug\sashinao davaleba 3.pdb
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\sashinao davaleba 3\sashinao davaleba 3\obj\Debug\sashinao davaleba 3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\sashinao davaleba 3\sashinao davaleba 3\obj\Debug\sashinao davaleba 3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\sashinao davaleba 3\sashinao davaleba 3\obj\Debug\sashinao davaleba 3.exe
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\sashinao davaleba 3\sashinao davaleba 3\obj\Debug\sashinao davaleba 3.pdb
