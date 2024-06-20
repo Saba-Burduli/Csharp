@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\projtest\projtest\bin\Debug\projtest.exe.config
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\projtest\projtest\bin\Debug\projtest.exe
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\projtest\projtest\bin\Debug\projtest.pdb
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\projtest\projtest\obj\Debug\projtest.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\projtest\projtest\obj\Debug\projtest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\projtest\projtest\obj\Debug\projtest.exe
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\projtest\projtest\obj\Debug\projtest.pdb
