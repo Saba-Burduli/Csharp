@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\1sashinao davaleba\1sashinao davaleba\bin\Debug\net8.0\1sashinao davaleba.exe
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\1sashinao davaleba\1sashinao davaleba\bin\Debug\net8.0\1sashinao davaleba.deps.json
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\1sashinao davaleba\1sashinao davaleba\bin\Debug\net8.0\1sashinao davaleba.runtimeconfig.json
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\1sashinao davaleba\1sashinao davaleba\bin\Debug\net8.0\1sashinao davaleba.dll
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\1sashinao davaleba\1sashinao davaleba\bin\Debug\net8.0\1sashinao davaleba.pdb
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\1sashinao davaleba\1sashinao davaleba\obj\Debug\net8.0\1sashinao davaleba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\1sashinao davaleba\1sashinao davaleba\obj\Debug\net8.0\1sashinao davaleba.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\1sashinao davaleba\1sashinao davaleba\obj\Debug\net8.0\1sashinao davaleba.AssemblyInfo.cs
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\1sashinao davaleba\1sashinao davaleba\obj\Debug\net8.0\1sashinao davaleba.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\1sashinao davaleba\1sashinao davaleba\obj\Debug\net8.0\1sashinao davaleba.dll
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\1sashinao davaleba\1sashinao davaleba\obj\Debug\net8.0\refint\1sashinao davaleba.dll
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\1sashinao davaleba\1sashinao davaleba\obj\Debug\net8.0\1sashinao davaleba.pdb
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\1sashinao davaleba\1sashinao davaleba\obj\Debug\net8.0\1sashinao davaleba.genruntimeconfig.cache
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\1sashinao davaleba\1sashinao davaleba\obj\Debug\net8.0\ref\1sashinao davaleba.dll
