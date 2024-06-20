@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\homeworkMain\homeworkMain\bin\Debug\homeworkMain.exe.config
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\homeworkMain\homeworkMain\bin\Debug\homeworkMain.exe
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\homeworkMain\homeworkMain\bin\Debug\homeworkMain.pdb
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\homeworkMain\homeworkMain\obj\Debug\homeworkMain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\homeworkMain\homeworkMain\obj\Debug\homeworkMain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\homeworkMain\homeworkMain\obj\Debug\homeworkMain.exe
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\homeworkMain\homeworkMain\obj\Debug\homeworkMain.pdb
