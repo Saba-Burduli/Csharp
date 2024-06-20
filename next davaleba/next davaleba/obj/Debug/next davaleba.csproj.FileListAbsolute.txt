@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\next davaleba\next davaleba\bin\Debug\next davaleba.exe.config
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\next davaleba\next davaleba\bin\Debug\next davaleba.exe
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\next davaleba\next davaleba\bin\Debug\next davaleba.pdb
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\next davaleba\next davaleba\obj\Debug\next davaleba.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\next davaleba\next davaleba\obj\Debug\next davaleba.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\next davaleba\next davaleba\obj\Debug\next davaleba.exe
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\next davaleba\next davaleba\obj\Debug\next davaleba.pdb
