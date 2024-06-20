@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\damatebiti savarjisho\damatebiti savarjisho\bin\Debug\damatebiti savarjisho.exe.config
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\damatebiti savarjisho\damatebiti savarjisho\bin\Debug\damatebiti savarjisho.exe
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\damatebiti savarjisho\damatebiti savarjisho\bin\Debug\damatebiti savarjisho.pdb
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\damatebiti savarjisho\damatebiti savarjisho\obj\Debug\damatebiti savarjisho.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\damatebiti savarjisho\damatebiti savarjisho\obj\Debug\damatebiti savarjisho.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\damatebiti savarjisho\damatebiti savarjisho\obj\Debug\damatebiti savarjisho.exe
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\damatebiti savarjisho\damatebiti savarjisho\obj\Debug\damatebiti savarjisho.pdb
