@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\davaleba next\davaleba next\bin\Debug\davaleba next.exe.config
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\davaleba next\davaleba next\bin\Debug\davaleba next.exe
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\davaleba next\davaleba next\bin\Debug\davaleba next.pdb
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\davaleba next\davaleba next\obj\Debug\davaleba next.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\davaleba next\davaleba next\obj\Debug\davaleba next.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\davaleba next\davaleba next\obj\Debug\davaleba next.exe
+C:\Users\User\Desktop\codewars\c#\algorimebi\algorritmi 1\davaleba next\davaleba next\obj\Debug\davaleba next.pdb
