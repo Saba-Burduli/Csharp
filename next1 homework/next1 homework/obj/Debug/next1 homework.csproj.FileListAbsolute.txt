@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\next1 homework\next1 homework\obj\Debug\next1 homework.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\next1 homework\next1 homework\obj\Debug\next1 homework.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\next1 homework\next1 homework\bin\Debug\next1 homework.exe.config
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\next1 homework\next1 homework\bin\Debug\next1 homework.exe
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\next1 homework\next1 homework\bin\Debug\next1 homework.pdb
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\next1 homework\next1 homework\obj\Debug\next1 homework.exe
+C:\Users\User\Desktop\IT ACADEMY STEP\c#\next1 homework\next1 homework\obj\Debug\next1 homework.pdb
