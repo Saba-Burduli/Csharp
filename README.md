@@ -73,7 +73,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-For any questions or suggestions, feel free to reach out via [email](mailto:youremail@example.com).
+For any questions or suggestions, feel free to reach out via [email](sabagg790@gmail.com).
 
 ---
 
