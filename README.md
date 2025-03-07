@@ -78,5 +78,5 @@ For any questions or suggestions, feel free to reach out via [email](sabagg790@g
 ---
 
 Happy coding! 🎉
-Contact for more information in My current Mail : sabagg790@gmial.com
+Contact for more information in My current **Mail** : sabagg790@gmial.com
 
